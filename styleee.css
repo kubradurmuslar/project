@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box !important;
+    
+}
+
+body {
+    overflow-x: hidden;
+   
+   
+}
+
+h1 {
+    padding-left: 1rem;
+}
+
+
+.fw-bolder {
+    font-size: 3rem;
+    font-weight: bolder !important;
+}
+
+.feature {
+    align-items: center;
+    display: inline-flex;
+    justify-content: center;
+    height: 3rem;
+    width: 3rem;
+    font-size: 1.5rem;
+
+}
+
+.slash {
+    color: blue;
+}
+
+#blog {
+    font-size: 2rem !important;
+    margin-top: 5rem;
+}
+
+#lead {
+    color: rgba(33, 37, 41, 0.75);
+}
+
+.card-title {
+    padding-top: 1rem;
+}
+
+.text-muted {
+    color:rgba(33, 37, 41, 0.75)  ;
+}
+
+#flex-column {
+    flex-direction: column !important;
+}
+
+#aside {
+    margin: auto;
+    margin-left: 8rem;
+    margin-right: 8rem;
+
+    
+}
+
+.fw-normal {
+    font-size: 1.25rem;
+    color:rgba(33, 37, 41, 0.75);
+    padding: 1rem;
+    
+
+}
+
+#founding {
+    font-size: 2rem !important;
+    padding-left: 1rem !important;
+    
+    
+}
+
+#growth {
+    font-size: 2rem;
+    padding-left: 1rem;
+}
+
+#message {
+    height: 10rem;
+}
+
